@@ -1,7 +1,7 @@
 {
   "userPrincipalName": "baihe@2811hl.onmicrosoft.com",
   "icon": "/icons/128.png",
-  "title": "小舟从此逝，江海尽余生。",
+  "title": "baihe",
   "baseDirectory": "/Public",
   "maxItems": 100,
   "googleFontSans": "Inter",
@@ -14,7 +14,7 @@
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
-  "email": "",
+  "email": "qybaihe@gmail.com",
   "links": [
     {
       "name": "GitHub",
