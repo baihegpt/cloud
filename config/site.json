@@ -2,7 +2,7 @@
   "userPrincipalName": "baihe@2811hl.onmicrosoft.com",
   "icon": "/icons/128.png",
   "title": "小舟从此逝，江海尽余生。",
-  "baseDirectory": "/LZ",
+  "baseDirectory": "/Public",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
