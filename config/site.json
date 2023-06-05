@@ -1,7 +1,7 @@
 {
-  "userPrincipalName": "l1zheng@peach225.onmicrosoft.com",
+  "userPrincipalName": "baihe@2811hl.onmicrosoft.com",
   "icon": "/icons/128.png",
-  "title": "快乐108",
+  "title": "小舟从此逝，江海尽余生。",
   "baseDirectory": "/LZ",
   "maxItems": 100,
   "googleFontSans": "Inter",
@@ -14,7 +14,7 @@
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
-  "email": "mailto:spencer.wushangbo@gmail.com",
+  "email": "",
   "links": [
     {
       "name": "GitHub",
